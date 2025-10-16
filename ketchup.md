@@ -1,3 +1,5 @@
-I like tomatoes, therefore I like ketchup
+I like tomatoes, therefore I really like ketchup
 # Instructions
 - buy tomatoes
+# Ingredients
+- tomatoes
